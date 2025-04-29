@@ -1,0 +1,1 @@
+global_gradient_flag = 1
